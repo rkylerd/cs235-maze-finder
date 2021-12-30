@@ -1,0 +1,7 @@
+﻿  Maze.cpp
+c:\users\rkyle\documents\computer science stuff\cs235 labs\lab5\lab5\maze.cpp(33): error C2059: syntax error : ')'
+c:\users\rkyle\documents\computer science stuff\cs235 labs\lab5\lab5\maze.cpp(33): error C2143: syntax error : missing ';' before '{'
+c:\users\rkyle\documents\computer science stuff\cs235 labs\lab5\lab5\maze.cpp(38): error C2181: illegal else without matching if
+c:\users\rkyle\documents\computer science stuff\cs235 labs\lab5\lab5\maze.cpp(38): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  Factory.cpp
+  Generating Code...
